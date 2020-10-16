@@ -6,3 +6,5 @@ write something about myself
 ###
 
 push test
+
+test push in terminal git
